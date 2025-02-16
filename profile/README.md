@@ -1,5 +1,9 @@
 ## Hi there 👋, Welcome to the Twin Cities Open Source Developers group!
 
+This organization was created to foster connection within the tech community in the Twin Cities area. With that said, all are welcome to contribute and be a part of this community! 
+
+Behind this is a [Meetup group](https://www.meetup.com/twin-cities-open-source-developers/) where individuals from the Twin Cities can come together to collaborate, learn, and build together.
+
 <!--
 
 **Here are some ideas to get you started:**
